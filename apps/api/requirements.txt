@@ -1,0 +1,6 @@
+spotipy
+SQLAlchemy
+psycopg2-binary
+
+
+psql -h 
